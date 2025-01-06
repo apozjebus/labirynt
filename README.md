@@ -1,0 +1,1 @@
+Simple C++ project. It's a labirynth where S - start, E - end, blank - path, x - wall. You can either load a labirynth from a file or generate it. The code also searches for a path and saves it to a text file.
